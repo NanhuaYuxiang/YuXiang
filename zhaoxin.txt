@@ -1,1 +1,10 @@
 hello 
+
+class User {
+
+public void play(){
+
+
+}
+
+}
